@@ -28,6 +28,7 @@ LaslesVPN is a responsive VPN service landing page built entirely with **HTML5**
 ## 📁 Project Structure
 
     laslesvpn-landingpage/
+    ├── images 
     ├── index.html
     ├── style.css
     └── README.md
